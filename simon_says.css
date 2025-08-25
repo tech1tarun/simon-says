@@ -1,0 +1,55 @@
+* {
+  font-family: cursive;
+}
+
+body {
+  text-align: center;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 2.5rem;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.yellow {
+  background-color: orange;
+}
+
+.red {
+  background-color: rgb(255, 0, 64);
+}
+
+.purple {
+  background-color: rgba(30, 30, 203, 0.784);
+}
+
+.green {
+  background-color: rgb(43, 174, 226);
+}
+
+.flash {
+  /* class that was called to JS to flash the button */
+  background-color: white;
+}
+
+.userflash {
+  /* when user press the button the green color will appear */
+  border-color: green;
+}
+
+.high {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 10px;
+  background-color: black;
+  color: white;
+}
