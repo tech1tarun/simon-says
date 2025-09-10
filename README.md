@@ -1,12 +1,8 @@
-#
-
-🎮 Simon Says Game
+# 🎮 Simon Says Game
 
 The Simon Says Game is a fun, interactive memory game built with JavaScript, HTML, and CSS. The game challenges players to remember and repeat an increasing sequence of colors. With each round, the sequence gets longer, testing memory and concentration.
 
-##
-
-📌 Features
+## 📌 Features
 
 🎨 Four colored buttons.
 
@@ -18,17 +14,13 @@ The Simon Says Game is a fun, interactive memory game built with JavaScript, HTM
 
 📱 Responsive and lightweight..
 
-##
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
 Version Control: Git & GitHub
 
-##
-
-⚙️ How to Play
+## ⚙️ How to Play
 
 Press any key to begin the game.
 
@@ -44,9 +36,7 @@ If you make a mistake, the game ends, and you can restart.
 
 Add screenshots or GIFs of your game here. -->
 
-##
-
-🚀 Installation / Usage
+## 🚀 Installation / Usage
 
 Clone the repository:
 
@@ -54,11 +44,8 @@ git clone https://github.com/your-username/simon-says-game.git
 
 Or Open index.html in your browser.
 
-##
+## 📂 Project Structure
 
----
-
-📂 Project Structure
 ├── simon_says.html
 ├── simon_says.css
 ├── simon_says.js
@@ -66,9 +53,7 @@ Or Open index.html in your browser.
 
 ---
 
-##
-
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
