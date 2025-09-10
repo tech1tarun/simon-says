@@ -22,15 +22,15 @@ Version Control: Git & GitHub
 
 ## ⚙️ How to Play
 
-Press any key to begin the game.
+- Press any key to begin the game.
 
-Simon will flash a sequence of colors.
+- Simon will flash a sequence of colors.
 
-Repeat the sequence by clicking the buttons in the correct order.
+- Repeat the sequence by clicking the buttons in the correct order.
 
-Each round adds one more step to the sequence.
+- Each round adds one more step to the sequence.
 
-If you make a mistake, the game ends, and you can restart.
+- If you make a mistake, the game ends(with the red screen), and you can restart.
 
 <!-- 📸 Screenshots (Optional)
 
@@ -46,6 +46,9 @@ Or Open index.html in your browser.
 
 ## 📂 Project Structure
 
+---
+
+Simon_says
 ├── simon_says.html
 ├── simon_says.css
 ├── simon_says.js
