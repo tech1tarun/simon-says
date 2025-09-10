@@ -40,7 +40,7 @@ Add screenshots or GIFs of your game here. -->
 
 Clone the repository:
 
-git clone https://github.com/your-username/simon-says-game.git
+git clone https://github.com/tech1tarun/simon-says.git
 
 Or Open index.html in your browser.
 
