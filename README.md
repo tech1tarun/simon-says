@@ -46,15 +46,12 @@ Or Open index.html in your browser.
 
 ## 📂 Project Structure
 
----
-
-Simon_says
+```
+simon-says/
 ├── simon_says.html
 ├── simon_says.css
-├── simon_says.js
-└── README.md
-
----
+└── simon_says.js
+```
 
 ## 🤝 Contributing
 
